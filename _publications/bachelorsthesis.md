@@ -1,7 +1,7 @@
 ---
 title: "Explicit Symplectic Integrators for Non-SeparableHamiltonians in Molecular Dynamics"
 collection: publications
-permalink: /publication/
+permalink: /publication/bachelorsthesis.md
 excerpt: 'In molecular dynamics, mathematical models of metallic systems should in general have
 the temperature of the system as a dependent variable [1]. In particular, the potential
 energy term of the Hamiltonian function of the interaction model should be dependent on
