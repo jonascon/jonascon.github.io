@@ -26,6 +26,7 @@ definitive conclusion.'
 date: 2019-06-01
 venue: 'KTH Royal Institute of Technology (Bachelor's thesis)'
 paperurl: 'http://jonascon.github.io/files/FULLTEXT01.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 In molecular dynamics, mathematical models of metallic systems should in general have
 the temperature of the system as a dependent variable [1]. In particular, the potential
