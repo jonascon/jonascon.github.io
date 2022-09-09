@@ -6,7 +6,7 @@ excerpt: 'We give a thorough introduction to the Steklov problem on finite weigh
 date: 2021-06-08
 venue: 'Stockholm University (Master's thesis)'
 paperurl: 'http://jonascon.github.io/files/2021_M8_report-2.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 
 ---
 
 We give a thorough introduction to the Steklov problem on finite weighted graphs. On finite graphs, this problem reduces to studying the eigenvalues of a particular matrix defined on a subset of the vertices of the graph. We consider two versions of the Steklov problem, one of which is a ’normalized’ version of the other. We prove two novel results that relate the eigenvalues of the Steklov problem to the properties of the underlying graph. The first result consists of upper bounds on the normalized and non-normalized smallest nonzero Steklov eigenvalue, which hold when the underlying graph is planar. The second result is a lower bound on the non-normalized smallest nonzero Steklov eigenvalue which depends on the edge connectivity of the underlying graph.
