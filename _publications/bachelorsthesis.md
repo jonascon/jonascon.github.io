@@ -1,5 +1,5 @@
 ---
-title: "Explicit Symplectic Integrators for Non-SeparableHamiltonians in Molecular Dynamics"
+title: "Explicit Symplectic Integrators for Non-Separable Hamiltonians in Molecular Dynamics"
 collection: publications
 permalink: /publication/bachelorsthesis.md
 excerpt: 'In molecular dynamics, mathematical models of metallic systems should in general have
