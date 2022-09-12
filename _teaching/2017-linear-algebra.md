@@ -1,5 +1,5 @@
 ---
-title: "SF1624 Algebra och Geometri"
+title: "SF1624 Algebra and Geometry"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-linear-algebra
