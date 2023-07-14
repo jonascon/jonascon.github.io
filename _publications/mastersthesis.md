@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/mastersthesis
 excerpt: "Master's thesis in spectral graph theory from Stockholm University. Received a *Mittag-Leffler Prize for excellent Master's theses* from the Stockholm University Department of Mathematics."
 date: 2021-06-08
-venue: "Stockholm University (Master's thesis), 2021"
+venue: "Stockholm University, Master's thesis, 2021"
 paperurl: 'http://jonascon.github.io/files/2021_M8_report-2.pdf'
 
 ---
