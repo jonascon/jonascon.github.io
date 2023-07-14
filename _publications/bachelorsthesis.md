@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/bachelorsthesis
 excerpt: "Bachelor's thesis in computational physics at KTH."
 date: 2019-06-01
-venue: "KTH Royal Institute of Technology (Bachelor's thesis)"
+venue: "KTH Royal Institute of Technology (Bachelor's thesis), 2019"
 paperurl: 'http://jonascon.github.io/files/FULLTEXT01.pdf'
 
 ---
