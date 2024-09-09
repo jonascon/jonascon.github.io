@@ -14,3 +14,4 @@ Hi! I am a PhD student in theoretical computer science at Lund University, super
 - M.Sc. in Mathematics; joint degree between <a href="https://www.su.se/english/">Stockholm University</a> and <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
 - B.Sc. in Engineering Physics; <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
 
+You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.pdf">here</a>. 

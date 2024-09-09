@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jonas Conneryd"
   avatar           : "Jonas Conneryd (square, big).jpeg"
-  bio              : "PhD student in complexity theory at Lund University and University of Copenhagen."
-  location         : "Lund, Sweden"
-  employer         : "Lund University"
+  bio              : "PhD student in proof complexity at Lund University and University of Copenhagen."
+  location         : 
+  employer         : "Lund University, Sweden"
   email            : "jonas.conneryd@cs.lth.se"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
