@@ -19,6 +19,7 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 
 # Publications
 1. *Graph Colouring Is Hard on Average for Polynomial Calculus and Nullstellensatz*\
+  Joint work with Susanna de Rezende, Jakob Nordström, Shuo Pang, and Kilian Risse\
   FOCS 2023\
   [<a href="https://jonascon.github.io/files/pc-col-focs.pdf">conference version</a>]
 2. *Geometric Bounds for Steklov Eigenvalues on Graphs*\
