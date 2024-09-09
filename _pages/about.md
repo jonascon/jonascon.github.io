@@ -18,13 +18,13 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 
 
 # Publications
-1. *Graph Colouring Is Hard on Average for Polynomial Calculus and Nullstellensatz*
-  FOCS 2023
+1. *Graph Colouring Is Hard on Average for Polynomial Calculus and Nullstellensatz*\
+  FOCS 2023\
   [<a href="https://jonascon.github.io/files/pc-col-focs.pdf">conference version</a>]
-2. *Geometric Bounds for Steklov Eigenvalues on Graphs*
-  Master's thesis, Stockholm University
+2. *Geometric Bounds for Steklov Eigenvalues on Graphs*\
+  Master's thesis, Stockholm University\
   Received a *Mittag-Leffler Prize* from the Stockholm University Department of Mathematics.
   [<a href="http://jonascon.github.io/files/2021_M8_report-2.pdf">full text</a>] 
-3. *Explicit Symplectic Integrators for Non-Separable Hamiltonians in Molecular Dynamics*
-  Bachelor's thesis, KTH Royal Institute of Technology
+3. *Explicit Symplectic Integrators for Non-Separable Hamiltonians in Molecular Dynamics*\
+  Bachelor's thesis, KTH Royal Institute of Technology\
   [<a href="http://jonascon.github.io/files/FULLTEXT01.pdf">full text</a>]
