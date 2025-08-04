@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third-year PhD student in theoretical computer science at Lund University, supervised by <a href="https://derezende.github.io/">Susanna de Rezende</a>. My research concerns computational complexity theory and proof complexity in particular. I am interested both in lower bounds and in interconnections between proof complexity and circuit, query, and communication complexity. 
+Hi! I am a fourth-year PhD student in theoretical computer science at Lund University, supervised by <a href="https://www.ctr.maths.lu.se/matstat/staff/tatyana/">Tatyana Turova</a>. My research concerns computational complexity theory and proof complexity in particular. I am particularly interested in understanding the complexity of constraint satisfaction problems. 
 
 # Education
 - M.Sc. in Mathematics; joint degree between <a href="https://www.su.se/english/">Stockholm University</a> and <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
