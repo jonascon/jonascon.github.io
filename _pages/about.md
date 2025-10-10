@@ -27,7 +27,7 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
   FOCS 2023\
   [<a href="https://arxiv.org/abs/2503.17022">arXiv</a>] [<a href="https://eccc.weizmann.ac.il/report/2025/032/">ECCC</a>]\
   [<a href="https://www.youtube.com/watch?v=ay7-3uXH3g0">My presentation at Oberwolfach Workshop 2413</a>] [<a href="https://eccc.weizmann.ac.il/report/2025/032/">slides</a>]\
-  [<a href="[https://eccc.weizmann.ac.il/report/2025/032/](https://www.youtube.com/watch?v=dYMPRGQheow)">Shuo's Presentation at Simons Institute</a>]
+  [<a href="https://www.youtube.com/watch?v=dYMPRGQheow">Shuo's Presentation at Simons Institute</a>]
 - *Geometric Bounds for Steklov Eigenvalues on Graphs*\
   Master's thesis, Stockholm University. Received a *Mittag-Leffler Prize* from the Stockholm University Department of Mathematics.\
   [<a href="http://jonascon.github.io/files/2021_M8_report-2.pdf">full text</a>] 
