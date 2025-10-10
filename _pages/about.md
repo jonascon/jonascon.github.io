@@ -18,14 +18,15 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 
 
 # Publications
-1. *Graph Colouring Is Hard on Average for Polynomial Calculus and Nullstellensatz*\
+
+3. *Lower Bounds for CSP Hierarchies Through Ideal Reduction*
+2. *Graph Colouring Is Hard on Average for Polynomial Calculus and Nullstellensatz*\
   Joint work with Susanna de Rezende, Jakob Nordström, Shuo Pang, and Kilian Risse\
   FOCS 2023\
-  [<a href="https://jonascon.github.io/files/pc-col-focs.pdf">conference version</a>]
-2. *Geometric Bounds for Steklov Eigenvalues on Graphs*\
+  [<a href="https://arxiv.org/abs/2503.17022">arXiv</a>] [<a href="https://eccc.weizmann.ac.il/report/2025/032/">ECCC</a>] [<a href="https://eccc.weizmann.ac.il/report/2025/032/">ECCC</a>]\
+  [<a href="https://www.youtube.com/watch?v=ay7-3uXH3g0">My presentation at Oberwolfach Workshop 2413</a>] [<a href="https://eccc.weizmann.ac.il/report/2025/032/">slides</a>]\
+  [<a href="[https://eccc.weizmann.ac.il/report/2025/032/](https://www.youtube.com/watch?v=dYMPRGQheow)">Shuo's Presentation at Simons Institute</a>]
+1. *Geometric Bounds for Steklov Eigenvalues on Graphs*\
   Master's thesis, Stockholm University\
   Received a *Mittag-Leffler Prize* from the Stockholm University Department of Mathematics.
   [<a href="http://jonascon.github.io/files/2021_M8_report-2.pdf">full text</a>] 
-3. *Explicit Symplectic Integrators for Non-Separable Hamiltonians in Molecular Dynamics*\
-  Bachelor's thesis, KTH Royal Institute of Technology\
-  [<a href="http://jonascon.github.io/files/FULLTEXT01.pdf">full text</a>]
