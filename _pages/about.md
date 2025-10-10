@@ -18,7 +18,7 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 
 
 # Publications
-- *Lower Bounds for CSP Hierarchies Through Ideal Reduction*
+- *Lower Bounds for CSP Hierarchies Through Ideal Reduction*\
   Joint work with Yassine Ghananne and Shuo Pang\
   To appear in SODA 2026\
   [<a href="http://jonascon.github.io/files/pres.pdf">slides from talk at Oxford Proof Complexity workshop 2025</a>]
