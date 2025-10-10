@@ -26,7 +26,7 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
   Joint work with Susanna de Rezende, Jakob Nordström, Shuo Pang, and Kilian Risse\
   FOCS 2023\
   [<a href="https://arxiv.org/abs/2503.17022">arXiv</a>] [<a href="https://eccc.weizmann.ac.il/report/2025/032/">ECCC</a>]\
-  [<a href="https://www.youtube.com/watch?v=ay7-3uXH3g0">my presentation at Oberwolfach Workshop 2413</a>] [<a href="https://eccc.weizmann.ac.il/report/2025/032/">slides</a>]\
+  [<a href="https://www.youtube.com/watch?v=ay7-3uXH3g0">my presentation at Oberwolfach Workshop 2413</a>] [<a href="http://jonascon.github.io/files/pres-oberwolfach.pdf">slides</a>]\
   [<a href="https://www.youtube.com/watch?v=dYMPRGQheow">Shuo's presentation at Simons Institute</a>]
 - *Geometric Bounds for Steklov Eigenvalues on Graphs*\
   Master's thesis, Stockholm University. Received a *Mittag-Leffler Prize* from the Stockholm University Department of Mathematics.\
