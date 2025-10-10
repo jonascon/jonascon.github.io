@@ -11,8 +11,8 @@ redirect_from:
 Hi! I am a fourth-year PhD student in theoretical computer science at Lund University, supervised by <a href="https://www.ctr.maths.lu.se/matstat/staff/tatyana/">Tatyana Turova</a>. My research concerns computational complexity theory and proof complexity in particular. I am especially interested in understanding the complexity of (random) constraint satisfaction problems. 
 
 # Education
-- M.Sc. in Mathematics; joint degree between <a href="https://www.su.se/english/">Stockholm University</a> and <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
-- B.Sc. in Engineering Physics; <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
+- M.Sc. in Mathematics, joint degree between <a href="https://www.su.se/english/">Stockholm University</a> and <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
+- B.Sc. in Engineering Physics, <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
 
 You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.pdf">here</a>. 
 
