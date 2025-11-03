@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fourth-year PhD student in theoretical computer science at Lund University. My advisor is <a href="https://www.ctr.maths.lu.se/matstat/staff/tatyana/">Tatyana Turova</a>. My research concerns computational complexity theory and proof complexity in particular. I am especially interested in understanding the complexity of (random) constraint satisfaction problems. 
+Hi! I am a final-year PhD student in theoretical computer science at Lund University. My advisor is <a href="https://www.ctr.maths.lu.se/matstat/staff/tatyana/">Tatyana Turova</a>. My research concerns computational complexity theory and proof complexity in particular. I am especially interested in understanding the complexity of (random) constraint satisfaction problems. 
 
 # Education
 - Lic. Eng. in Computer Science, <a href="https://www.lunduniversity.lu.se/">Lund University</a>, Lund, Sweden.
