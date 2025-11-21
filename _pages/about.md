@@ -22,11 +22,13 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 - *Lower Bounds for CSP Hierarchies Through Ideal Reduction*\
   Joint work with Yassine Ghananne and Shuo Pang\
   To appear in SODA 2026\
-  [<a href="http://jonascon.github.io/files/pres.pdf">slides from talk at Oxford Proof Complexity workshop 2025</a>]
+  [<a href="http://jonascon.github.io/files/pres.pdf">slides from talk at KTH Royal Institute of Technology</a>]
 -  *Graph Colouring Is Hard on Average for Polynomial Calculus and Nullstellensatz*\
   Joint work with Susanna de Rezende, Jakob Nordström, Shuo Pang, and Kilian Risse\
   FOCS 2023\
   [<a href="https://arxiv.org/abs/2503.17022">arXiv</a>] [<a href="https://eccc.weizmann.ac.il/report/2025/032/">ECCC</a>]\
+  [<a href="https://www.youtube.com/watch?v=OyaiOZSW4LQ">Jakob's presentation at FSTTCS 2024</a>]\
+  [<a href="https://www.youtube.com/watch?v=-ydHfp05OFQ">Shuo's presentation at MIAO Seminar</a>]\
   [<a href="https://www.youtube.com/watch?v=ay7-3uXH3g0">my presentation at Oberwolfach Workshop 2413</a>] [<a href="http://jonascon.github.io/files/pres-oberwolfach.pdf">slides</a>]\
   [<a href="https://www.youtube.com/watch?v=dYMPRGQheow">Shuo's presentation at Simons Institute</a>]
 - *Geometric Bounds for Steklov Eigenvalues on Graphs*\
