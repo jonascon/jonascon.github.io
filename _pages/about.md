@@ -22,6 +22,7 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 - *Lower Bounds for CSP Hierarchies Through Ideal Reduction*\
   Joint work with Yassine Ghananne and Shuo Pang\
   To appear in SODA 2026\
+  [<a href="https://arxiv.org/abs/2511.17272">arXiv</a>]\
   [<a href="http://jonascon.github.io/files/pres.pdf">slides from talk at KTH Royal Institute of Technology</a>]
 -  *Graph Colouring Is Hard on Average for Polynomial Calculus and Nullstellensatz*\
   Joint work with Susanna de Rezende, Jakob Nordström, Shuo Pang, and Kilian Risse\
