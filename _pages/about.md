@@ -20,7 +20,7 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 
 # Publications
 - *Lower Bounds for CSP Hierarchies Through Ideal Reduction*\
-  Joint work with Yassine Ghananne and Shuo Pang\
+  Joint work with Yassine Ghannane and Shuo Pang\
   SODA 2026\
   [<a href="https://arxiv.org/abs/2511.17272">arXiv</a>][<a href="https://epubs.siam.org/doi/10.1137/1.9781611978971.231">conference version</a>]\
   [<a href="http://jonascon.github.io/files/pres.pdf">slides from talk at KTH Royal Institute of Technology</a>]
