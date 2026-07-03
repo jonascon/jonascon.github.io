@@ -18,7 +18,11 @@ Hi! I am a fifth-year PhD student in theoretical computer science at Lund Univer
 You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.pdf">here</a>. 
 
 
-# Publications
+# Papers
+- *On the Power of Polynomial Calculus over Non-Boolean Domains*\
+  Joint work with Yassine Ghannane, Jakob Nordström, Shuo Pang, Kilian Risse, and Dmitry Sokolov\
+  2026
+
 - *Lower Bounds for CSP Hierarchies Through Ideal Reduction*\
   Joint work with Yassine Ghannane and Shuo Pang\
   SODA 2026\
