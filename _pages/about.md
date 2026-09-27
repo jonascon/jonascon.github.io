@@ -41,7 +41,7 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 
 - *On the Algebraic Proof Complexity of Constraint Satisfaction*\
   PhD thesis, Lund University.\
-  [<a href="http://jonascon.github.io/files/2021_M8_report-2.pdf](https://portal.research.lu.se/en/publications/on-the-algebraic-proof-complexity-of-constraint-satisfaction/">full text (without included papers)</a>] 
+  [<a href="https://portal.research.lu.se/en/publications/on-the-algebraic-proof-complexity-of-constraint-satisfaction/">full text (without included papers)</a>] 
 
 - *Geometric Bounds for Steklov Eigenvalues on Graphs*\
   Master's thesis, Stockholm University. Received a *Mittag-Leffler Prize* from the Stockholm University Department of Mathematics.\
