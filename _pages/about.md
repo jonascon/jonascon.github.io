@@ -7,10 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi!
 
-Hi! I am a fifth-year PhD student in theoretical computer science at Lund University. My advisor is <a href="https://www.ctr.maths.lu.se/matstat/staff/tatyana/">Tatyana Turova</a>. My research concerns computational complexity theory and proof complexity in particular. I am especially interested in understanding the complexity of (random) constraint satisfaction problems. 
+I recently defended my PhD thesis in theoretical computer science at Lund University. My advisor there was <a href="https://www.ctr.maths.lu.se/matstat/staff/tatyana/">Tatyana Turova</a>. My research concerns computational complexity theory and proof complexity in particular. I am especially interested in understanding the complexity of (random) constraint satisfaction problems. 
 
 # Education
+- PhD in Computer Science, <a href="https://www.lunduniversity.lu.se/">Lund University</a>, Lund, Sweden.
 - Lic. Eng. in Computer Science, <a href="https://www.lunduniversity.lu.se/">Lund University</a>, Lund, Sweden.
 - M.Sc. in Mathematics, joint degree between <a href="https://www.su.se/english/">Stockholm University</a> and <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
 - B.Sc. in Engineering Physics, <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
@@ -21,8 +23,7 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 # Papers
 - *On the Power of Polynomial Calculus over Non-Boolean Domains*\
   Joint work with Yassine Ghannane, Jakob Nordström, Shuo Pang, Kilian Risse, and Dmitry Sokolov\
-  2026
-
+  Manuscript, 2026
 - *Lower Bounds for CSP Hierarchies Through Ideal Reduction*\
   Joint work with Yassine Ghannane and Shuo Pang\
   SODA 2026\
@@ -36,6 +37,15 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
   [<a href="https://www.youtube.com/watch?v=-ydHfp05OFQ">Shuo's presentation at MIAO Seminar</a>]\
   [<a href="https://www.youtube.com/watch?v=ay7-3uXH3g0">my presentation at Oberwolfach Workshop 2413</a>] [<a href="http://jonascon.github.io/files/pres-oberwolfach.pdf">slides</a>]\
   [<a href="https://www.youtube.com/watch?v=dYMPRGQheow">Shuo's presentation at Simons Institute</a>]
+
+
+# Theses 
+
+- *On the Algebraic Proof Complexity of Constraint Satisfaction*\
+  PhD thesis, Lund University.\
+  [<a href="http://jonascon.github.io/files/2021_M8_report-2.pdf](https://portal.research.lu.se/en/publications/on-the-algebraic-proof-complexity-of-constraint-satisfaction/">full text (without included papers)</a>] 
+
 - *Geometric Bounds for Steklov Eigenvalues on Graphs*\
   Master's thesis, Stockholm University. Received a *Mittag-Leffler Prize* from the Stockholm University Department of Mathematics.\
   [<a href="http://jonascon.github.io/files/2021_M8_report-2.pdf">full text</a>] 
+
