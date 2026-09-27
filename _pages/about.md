@@ -10,7 +10,7 @@ redirect_from:
 Hi! I recently defended my PhD thesis in theoretical computer science at Lund University. My advisor there was <a href="https://www.ctr.maths.lu.se/matstat/staff/tatyana/">Tatyana Turova</a>. Starting December 2026, I will be a postdoc at University of Oxford hosted by <a href="https://www.cs.ox.ac.uk/standa.zivny/">Stanislav Živný</a>, funded by the <a href="https://wasp-sweden.org/calls/wasp-international-postdoctoral-scholarships-6/">WASP/KAW International Postdoctoral Scholarship</a>. My research concerns computational complexity theory and proof complexity in particular. I am especially interested in understanding the complexity of (random) constraint satisfaction problems from this and related perspectives. 
 
 # Education
-- PhD in Computer Science, <a href="https://www.lunduniversity.lu.se/">Lund University</a>, Lund, Sweden.
+- Ph.D. in Computer Science, <a href="https://www.lunduniversity.lu.se/">Lund University</a>, Lund, Sweden.
 - Lic. Eng. in Computer Science, <a href="https://www.lunduniversity.lu.se/">Lund University</a>, Lund, Sweden.
 - M.Sc. in Mathematics, joint degree between <a href="https://www.su.se/english/">Stockholm University</a> and <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
 - B.Sc. in Engineering Physics, <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm, Sweden.
