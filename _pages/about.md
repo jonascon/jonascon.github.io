@@ -19,6 +19,13 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 
 
 # Papers
+
+## AI-Assisted
+- *Random ($\log{n}$)-CNF Formulas Are Hard for Depth-$2$ Frege with Modular Gates*\
+  Manuscript, October 2026\
+  [<a href="https://arxiv.org/abs/2610.40397">arXiv</a>]
+
+## Without AI
 - *On the Power of Polynomial Calculus over Non-Boolean Domains*\
   Joint work with Yassine Ghannane, Jakob Nordström, Shuo Pang, Kilian Risse, and Dmitry Sokolov\
   Manuscript, 2026
