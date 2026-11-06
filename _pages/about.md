@@ -22,13 +22,13 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 
 ## AI-Assisted
 - *Random ($\log{n}$)-CNF Formulas Are Hard for Depth-$2$ Frege with Modular Gates*\
-  Manuscript, October 2026\
-  [<a href="https://arxiv.org/abs/2610.40397">arXiv</a>]
+  Submitted manuscript, November 2026\
+  [<a href="https://arxiv.org/abs/2610.40397">arXiv</a>][<a href="https://sigact-stoc.github.io/stoc2027/">Submission #332 here</a>]
 
 ## Without AI
 - *On the Power of Polynomial Calculus over Non-Boolean Domains*\
   Joint work with Yassine Ghannane, Jakob Nordström, Shuo Pang, Kilian Risse, and Dmitry Sokolov\
-  Submitted manuscript, 2026\
+  Submitted manuscript, November 2026\
   [<a href="https://sigact-stoc.github.io/stoc2027/">Submission #1191 here</a>]
 - *Lower Bounds for CSP Hierarchies Through Ideal Reduction*\
   Joint work with Yassine Ghannane and Shuo Pang\
