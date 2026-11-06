@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Jonas Conneryd"
+excerpt: "Jonas Conneryd"
 author_profile: true
 redirect_from: 
   - /about/
@@ -28,7 +28,8 @@ You can find my CV <a href="https://jonascon.github.io/files/CV-jonas-conneryd.p
 ## Without AI
 - *On the Power of Polynomial Calculus over Non-Boolean Domains*\
   Joint work with Yassine Ghannane, Jakob Nordström, Shuo Pang, Kilian Risse, and Dmitry Sokolov\
-  Manuscript, 2026
+  Submitted manuscript, 2026\
+  [<a href="https://sigact-stoc.github.io/stoc2027/">Submission #1191 here</a>]
 - *Lower Bounds for CSP Hierarchies Through Ideal Reduction*\
   Joint work with Yassine Ghannane and Shuo Pang\
   SODA 2026\
